@@ -1,1 +1,1 @@
-# Meta-MUMS tool is already in its reviewer version.
+# Meta-MUMS tool is fully functional and already in its reviewer version.
